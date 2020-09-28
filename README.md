@@ -100,7 +100,3 @@ If you do decide to stop sending them:
 1. We are still running online meetings over Zoom on Wednesdays, if they want to join us for a chat. Due to low numbers, these have been mostly just chatting and 
 playing some games recently, but if we start getting more people, we will start doing more of an actual programme. 
 2. Please let us know, so we know what the demand is likely to be for non-face-to-face things (and also if there's anything else we can do to help). 
-
-
-
-
