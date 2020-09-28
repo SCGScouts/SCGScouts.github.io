@@ -1,7 +1,7 @@
 # Covid-19 Risk Update
 
 This update is rather long and detailed - skip to the [last section](#going-forwards) if you just want things going forward, but I would advise you to at least look 
-at the [table of risks](#table-of-risks) under "The risks for us specifically", and the [Disclaimer following it](#disclaimer-on-the-above-figures).
+at the [table of risks](#table-of-risks) under "The risks for us specifically", and the [disclaimer following it](#disclaimer-on-the-above-figures).
 ## The current situation in York
 
 Since we last updated you, cases have risen significantly, both nationally and in York. Very likely, by the time you read this, the symptomatic infection rate in 
