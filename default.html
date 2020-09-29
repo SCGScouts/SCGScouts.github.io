@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    
+<script src="https://www.gstatic.com/charts/loader.js"></script>
+
+<script>
+  google.charts.load('current', {packages: ['corechart']});
+  google.charts.setOnLoadCallback(drawChart);
+  function drawChart() {
+  var query = new google.visualization.Query(https://docs.google.com/spreadsheets/d/1o_rk1XXEvD5zfgyuD02lmKHQjf-uINfLXSwwOcDKPlY/gviz/tq?range=34:35,sheet=Sheet4);
+  query.send(handleQueryResponse);
+}
+
+function handleQueryResponse(response) {
+  var data = response.getDataTable();
+  var options = {'title': 'Daily Cases in York (modelled)', 'width' : 400, 'height' : 300};
+  var chart = new google.visualization.LineChart(document.getElementById('chart-div'));
+  chart.draw(data, options);
+}
+
+</script>
+
+
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="/css/style.css">
+  </head>
+  <body>
+    <h1>{{ page.title }}</h1>
+    <section>
+        <div id="chart-div"></div>
+      {{ content }}
+    </section>
+  </body>
+</html>
