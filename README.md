@@ -4,19 +4,19 @@ This update is rather long and detailed - skip to the [last section](#going-forw
 at the [table of risks](#table-of-risks) under "The risks for us specifically", and the [disclaimer following it](#disclaimer-on-the-above-figures).
 ## The current situation in York
 
-Since we last updated you, cases have risen significantly, both nationally and in York. Very likely, by the time you read this, the symptomatic infection rate in 
-York (as modelled by [ZOE/KCL](https://covid.joinzoe.com/data) will have broken 10,000 cases per million. This is what the changes since the start of September look 
+Since we last updated you, cases have risen significantly, both nationally and in York. As of this week, the symptomatic infection rate in 
+York (as modelled by [ZOE/KCL](https://covid.joinzoe.com/data) will have broken 5,000 cases per million. This is what the changes since the start of September look 
 like: 
 
 ![Graph of infections](g1.png)
 
 (I think that dip on Thursday is a modelling adjustment, rather than an actual change). 
 
-That looks concerning, but there is some good news. Most notably, the rolling average daily growth rate has declined significantly: 
+That looks concerning, but there is some good news. Most notably, the rolling average daily growth rate has declined significantly over the last week or so: 
 
 ![Graph of growth rates](g2.png) 
 
-That corresponds to a drop in R from ~2.4 to ~1.5 over the period shown, and an increase in doubling times from 4 days to 7. That suggests that the measures being 
+That corresponds to a drop in R from ~2 to ~1.3 over the period shown, and an increase in doubling times from 4 days to 7. That suggests that the measures being 
 taken are being at least partially effective in York (though this does not seem to be the case elsewhere). 
 
 ## The risks for us specifically
@@ -40,14 +40,18 @@ schools, compared to our infection rates).
 
 Section | Risk (This Week) | Risk (Next Week)
 --------|-----|------
-Beavers | 4.7% | 9.6%
-Tigers | 4.8% | 9.7%
-Panthers A | 4.6% | 9.3%
-Panthers B | 5.1% | 10.2%
-Tuesday Scouts A | 6.7% | 13.5%
-Tuesday Scouts B | 5.4% | 11.0%
-Thursday Scouts | 5.2% | 10.5%
-Explorers | 14.4% | 27.7%
+Beavers | 3.9% | 6.6%
+Tigers | 3.8% | 6.4%
+Panthers A | 2.0% | 3.3%
+Panthers B | 2.2% | 3.7%
+Tuesday Scouts A | 5.2% | 8.8%
+Tuesday Scouts B | 4.2% | 7.1%
+Thursday Scouts | 2.2% | 3.8%
+Explorers | 5.8% | 9.8%
+
+Here's how those risks have changed over time: 
+
+![Graph of risks](g3.png)
 
 The variation in these figures is due to a few things: 
 
