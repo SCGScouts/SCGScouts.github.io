@@ -51,7 +51,7 @@ Explorers | 2.5% | 2.9%
 
 Here's how those risks have changed over time, together with (dashed) projections of future risks assuming current growth rates: 
 
-![Graph of risks](g3.png)
+![Graph of risks](g33.png)
 
 The variation in these figures is due to a few things: 
 
