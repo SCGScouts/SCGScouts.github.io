@@ -8,7 +8,7 @@ Since we last updated you, cases have risen significantly, both nationally and i
 York (as modelled by [ZOE/KCL](https://covid.joinzoe.com/data) will have broken 5,000 cases per million. This is what the changes since the start of September look 
 like: 
 
-![Graph of infections](g51.png)
+![Graph of infections](g53.png)
 
 (I think that dip on Thursday is a modelling adjustment, rather than an actual change). 
 
