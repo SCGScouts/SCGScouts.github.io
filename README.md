@@ -8,16 +8,16 @@ Since we last updated you, cases have risen significantly, both nationally and i
 York (as modelled by [ZOE/KCL](https://covid.joinzoe.com/data) will have broken 5,000 cases per million. This is what the changes since the start of September look 
 like: 
 
-![Graph of infections](g1.png)
+![Graph of infections](g21.png)
 
 (I think that dip on Thursday is a modelling adjustment, rather than an actual change). 
 
 That looks concerning, but there is some good news. Most notably, the rolling average daily growth rate has declined significantly over the last week or so: 
 
-![Graph of growth rates](g2.png) 
+![Graph of growth rates](g12.png) 
 
-That corresponds to a drop in R from ~2 to ~1.3 over the period shown, and an increase in doubling times from 4 days to 7. That suggests that the measures being 
-taken are being at least partially effective in York (though this does not seem to be the case elsewhere). 
+That corresponds to a drop in R from ~2 to ~1.3 over the period shown, and an increase in doubling times from 4 days to 12. That suggests that the measures being 
+taken are being at least partially effective in York (though this is not as clear elsewhere). 
 
 ## The risks for us specifically
 
@@ -40,16 +40,16 @@ schools, compared to our infection rates).
 
 Section | Risk (This Week) | Risk (Next Week)
 --------|-----|------
-Beavers | 3.9% | 6.6%
-Tigers | 3.8% | 6.4%
-Panthers A | 2.0% | 3.3%
-Panthers B | 2.2% | 3.7%
-Tuesday Scouts A | 5.2% | 8.8%
-Tuesday Scouts B | 4.2% | 7.1%
-Thursday Scouts | 2.2% | 3.8%
-Explorers | 5.8% | 9.8%
+Beavers | 2.5% | 3.5%
+Tigers | 2.4% | 3.5%
+Panthers A | 1.9% | 3.3%
+Panthers B | 2.1% | 3.7%
+Tuesday Scouts A | 1.8% | 2.5%
+Tuesday Scouts B | 1.4% | 2.0%
+Thursday Scouts | 1.2% | 3.8%
+Explorers | 2.5% | 2.9%
 
-Here's how those risks have changed over time: 
+Here's how those risks have changed over time, together with (dashed) projections of future risks assuming current growth rates: 
 
 ![Graph of risks](g3.png)
 
@@ -94,7 +94,7 @@ due to a mixture of flu being more dangerous to children that Covid-19, a lower 
 -- If they/you/other close contacts are vulnerable in some way, the above might not apply to you. We can't tell you what an acceptable level of risk is - that's a 
 decision that only you can make - but if you want me to crunch some numbers to come up with my best estimate of what the risks are, I'm happy to do so. 
 
-We are going to keep meeting for now, and we'll be keeping those figures up to date.
+We are going to keep meeting for now, and we'll be keeping those figures up to date. If those percentages get worryingly high (around the 10% mark), we'll start dropping our maximum numbers by splitting groups down more where we can, and we'll consider other options where we can't. That will need more reliance on parent helpers to make it work. At current growth rates, that will happen in 2 or 3 weeks, but obviously anything could change in that time. 
 
 Please don't feel under any pressure to send your child or not based on anything other than your own risk/benefit decision. We're not going to be offended if you 
 decide not to send them. 
