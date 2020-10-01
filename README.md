@@ -77,7 +77,7 @@ short periods (compared to the time spent together in households or schools, for
 3. Our attempts at social distancing and other control measures will reduce the risk further. 
 
 It's hard to say exactly how much each of these factors reduces the risk, but in combination, they're likely to be significant. If I had to guess, I'd put the risk
-of transmission occurring at around 1% of the above figures. 
+of transmission occurring at around 1% of the above figures, but that really is mostly a guess. 
 
 ## Going forwards
 
