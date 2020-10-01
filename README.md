@@ -8,13 +8,13 @@ Since we last updated you, cases have risen significantly, both nationally and i
 York (as modelled by [ZOE/KCL](https://covid.joinzoe.com/data) will have broken 5,000 cases per million. This is what the changes since the start of September look 
 like: 
 
-![Graph of infections](g51.png)
+![Graph of infections](g61.png)
 
 (I think that dip on Thursday is a modelling adjustment, rather than an actual change). 
 
 That looks concerning, but there is some good news. Most notably, the rolling average daily growth rate has declined significantly over the last week or so: 
 
-![Graph of growth rates](g42.png) 
+![Graph of growth rates](g62.png) 
 
 That corresponds to a drop in R from ~2 to ~1.3 over the period shown, and an increase in doubling times from 4 days to 12. That suggests that the measures being 
 taken are being at least partially effective in York (though this is not as clear elsewhere). 
@@ -51,7 +51,7 @@ Explorers | 2.4% | 2.7%
 
 Here's how those risks have changed over time, together with (dashed) projections of future risks assuming current growth rates: 
 
-![Graph of risks](g43.png)
+![Graph of risks](g63.png)
 
 The variation in these figures is due to a few things: 
 
