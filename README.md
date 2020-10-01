@@ -40,14 +40,14 @@ schools, compared to our infection rates).
 
 Section | Risk (This Week) | Risk (Next Week)
 --------|-----|------
-Beavers | 2.9% | 3.1%
-Tigers | 2.8% | 3.2%
-Panthers A | 1.9% | 3.3%
-Panthers B | 2.1% | 3.7%
-Tuesday Scouts A | 2.1% | 2.3%
-Tuesday Scouts B | 1.7% | 1.8%
-Thursday Scouts | 1.2% | 3.8%
-Explorers | 2.4% | 2.7%
+Beavers | 2.9% | 2.9%
+Tigers | 2.8% | 2.9%
+Panthers A | 2.1% | 2.7%
+Panthers B | 1.0% | 1.4%
+Tuesday Scouts A | 2.1% | 2.1%
+Tuesday Scouts B | 1.7% | 1.7%
+Thursday Scouts | 1.1% | 1.4%
+Explorers | 2.4% | 2.5%
 
 Here's how those risks have changed over time, together with (dashed) projections of future risks assuming current growth rates: 
 
