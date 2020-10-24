@@ -2,10 +2,10 @@
 
 ## Local Situation
 
-As you can't have avoided noticing, we're now in "high" on the new tier list. We've also just today edged over 1% active infections by ZOE modelling. Growth rate continues to hover around 5% per day (translating to R between 1.1 and 1.3). This is somewhat lower growth than we saw last week, which has translated to about 600 fewer cases today than we would have had if growth had continued at the same rate. It's also low enough that the minor changes involved in moving to high might actually push it below R = 1, if we're lucky. 
+Some definite good news this week - for the first time since I started tracking the numbers daily, our 7-day rolling average growth rate has dipped negative. It's only slightly negative, and it's entirely possible that it's just random variation and it'll go positive again tomorrow, but it is negative, and corresponds to R = 0.95, which I believe is the lowest it's been since July, and it is certainly a drop off from what we were seeing last week. (You might also notice that I made the graphs go all the way back to the earliest dates I've got data for, rather than just covering the last few weeks).
 
-![Graph of infections](g81.png)
-![Graph of infection growth rates](g82.png)
+![Graph of infections](g91.png)
+![Graph of infection growth rates](g92.png)
 
 ## Our Risk Profile
 
@@ -13,19 +13,27 @@ The current and projected risks on the day of meeting (assuming growth continues
 
 | Section  | Current risk | Risk on meeting day (projected) |
 | ---      | --- | --- | 
-| Beavers  | 9.1% | 10.0% |
-| Tigers A | 7.4% | 8.0% |
-| Tigers B | 7.5% | 8.1% |
-| Panthers (Combined) | 10.5% | 12.2% |
-| Tuesday Scouts A | 5.5 | 6.1% |
-| Tuesday Scouts B | 7.3% | 8.0% |
-| Thursday Scouts (inc. some Cubs) | 9.8% | 11.3% |
-| Explorers | 11.2% | 11.8% |
+| Beavers A  | 3.5% | 3.3% |
+| Beavers B | 6.5% | 6.2% |
+| Tigers A | 4.0% | 3.9% |
+| Tigers B | 6.5% | 6.3% |
+| Panthers A | 7.1% | 6.7% |
+| Panthers B | 8.0% | 7.5% |
+| Tuesday Scouts A | 7.9% | 7.6% |
+| Tuesday Scouts B | 6.9%% | 6.6% |
+| Thursday Scouts | 8.7% | 8.2% |
+| Explorers | 8.8% | 8.6%* |
 
-In line with the above, our risks have continued to grow from last week - this is pretty well entirely due to the overall growth in case numbers. The risks for Beavers, Panthers, and Thursday Scouts are over-represented here, because they will be split into smaller groups this coming week than they were last week - Beavers will be split in two, while the Thursday sections will go from two groups to three.  The risk of your child actually catching it will be considerably lower than these numbers, but it's hard to say exactly how much lower. Obviously, we'll do what we can to minimise the risk of tranmission, but we can't make them zero. 
+\*Meeting virtually this week
+
+On account of the above, our risks for next week are broadly similar to what they were last week, except that:
+
+- With the Beaver groups being split, they've dropped down to being the lowest-risk section (averaged).
+- Similarly, with the Thursday sections being split down from two meetings to three, their risks have dropped.
+- With the Explorers meeting virtually this week, their actual risk is zero - for this reason, I've marked the meeting on the chart below with a circle rather than a star. 
 
 For comparison, equivalent risk figures for a primary school bubble of 30 are between 20 and 25%, and for a secondary school year bubble of 150, they're around 80%. 
 
 
-![Risk graph](g83.png)
+![Risk graph](g93.png)
 
