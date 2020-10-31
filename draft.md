@@ -1,12 +1,23 @@
 # Covid-19 Update
 
-## The Government Announcement & This Week
+## The Government Announcement 
 
 As I'm sure most of you have just watched, we're going to be seeing more restrictions from Monday. I can't currently tell whether the law is going to stop us from meeting up in person ("childcare" is on the leaked list of exceptions, but whether we're included in that or not has been inconsistent). Also, we're also bound to follow NYA and Scout Association rules, and as of yet, neither of those has updated us (the latter is waiting for the former, and the former is in discussions with the government, apparently). At this point, I can't say whether or not we will be able to continue meeting. 
 
 If we can, we'd like to, at least at the current risk level, for the same reasons we've mentioned previously: we still think that the actual risk from transmission at our meetings is low compared to the mental health benefits to our members. However, we're also aware that some of you will not agree with that, either because of higher risks to you/your family from the virus, or due to your kids being more able to cope with a lockdown than the average. I'll just take the opportunity to remind you that our online meetings are still continuing, if your kids would like to come to that instead. At present, that's running on Wednesdays (that being the only evening when the leaders aren't busy running other sections/etc.), but if we do have to stop running the other meetings, we will switch back to doing it on the normal section nights. 
 
-Because of the uncertainty and the likelihood of things changing mid-week, **we're going to Zoom for all section meetings this week**. We'll be having online campfires by section (and, I imagine, rather a lot of me answering people's questions about stuff). Normal meeting days/times. After that, we'll decide what we're doing based on what the government/NYA/national Scout Association tell us. As a minor point: we've been using my York uni account so far. That will expire on the 10th of November, so if we stay on Zoom (and I rather expect we will), the meeting ID will change at that point. 
+## This Week
+
+Because of the uncertainty and the likelihood of things changing mid-week, **we're going to Zoom for all section meetings this week**. The planned activities are: 
+
+|Section | Activity | Equipment Needed
+| --- | --- | --- |
+| Beavers | Something Arty | Something to draw on/with |
+| Cubs | Mug cakes | A mug (not metal), 4 tbsp self raising flour, 4 tbsp caster sugar, 2 tbsp cocoa powder, 1 egg, 3 tbsp milk, 3 tbsp oil, vanilla essence/chocolate chips/other flavourings as preferred |
+| Scouts | Cleudo | Pen, paper. "Spooky outfits encouraged", apparently | 
+| Explorers | Self-care night | Nothing in particular |
+
+I imagine there will also rather a lot of me answering people's questions about stuff and general chatter, too. Normal meeting days/times. After that, we'll decide what we're doing based on what the government/NYA/national Scout Association tell us. As a minor point: we've been using my York uni account so far. That will expire on the 10th of November, so if we stay on Zoom (and I rather expect we will), the meeting ID will change at that point. 
 
 Regardless of what happens going forwards, things are likely to be difficult for a lot of your kids going forwards. If there's anything that we can do to help, please let us know. In particular, I'd like to reiterate my offer to talk with anybody who's struggling, or anybody else who might benefit (either in person or virtually as the law/etc. allows), to provide reassurance, answer any questions, generally be someone to talk to who they aren't stuck in a house with all day. 
 
