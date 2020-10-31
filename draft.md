@@ -10,6 +10,8 @@ Because of the uncertainty and the likelihood of things changing mid-week, **we'
 
 Regardless of what happens going forwards, things are likely to be difficult for a lot of your kids going forwards. If there's anything that we can do to help, please let us know. In particular, I'd like to reiterate my offer to talk with anybody who's struggling, or anybody else who might benefit (either in person or virtually as the law/etc. allows), to provide reassurance, answer any questions, generally be someone to talk to who they aren't stuck in a house with all day. 
 
+If they'd rather write their concerns down than talk about it, we have a worrybox form [here](https://stchadsscouts.com/worrybox), or you can just email us at [worrybox@stchadsscouts.com](mailto://worrybox@stchadsscouts.com).
+
 ## Local Situation
 
 It's been an odd week, locally. Firstly, a quick note on the figures: on two days this week (Sunday 25th and Thursday 29th), there was no local data update from ZOE. 
@@ -18,11 +20,11 @@ each of those days (the 24th, 26th, 28th, and 30th) have larger weighting in the
 
 The numbers that we have had are also somewhat strange: from Thursday last week through to Tuesday this week, the rolling average of cases fell consistently, with R hovering around 0.9. Over the last two days, things have reversed entirely, with the last two days being the highest infection numbers we've seen since I started tracking it. Since I can't see any particular reason why this would happen, my best guess is that this is some combination of random variation and the model overestimating the effect of the move to Tier 2, and actual infections are somewhere close to holding steady. However, the test result data is showing essentially the same pattern, on the expected delay, which suggests that it *isn't* anything to do with the model. The only thing I can say with any degree of confidence is that the local numbers don't seem to be changing particularly quickly in either direction. 
 
-[g101.png](Infection Rate Graph)
+![g101.png](Infection Rate Graph)
 
 The 7-day average of growth rates looks less dramatic, though still with a similar pattern. Daily growth rates have been consistently between -3% and +3% for a long while now, significantly lower than we had earlier in the month (when we were briefly above 5%). That translates to R somewhere between 0.88 and 1.12 all week, somewhat lower than last week. 
 
-[g102.png](Growth Rate Graph)
+![g102.png](Growth Rate Graph)
 
 ## Our Risk Profile
 
@@ -41,4 +43,4 @@ Obviously, we aren't actually meeting this week, so I'm going to shift to using 
 | Thursday Scouts | 10.2% | 11.6% |
 | Explorers | 10.1% | 10.6% |
 
-[g103.png](Our Risk Graph)
+![g103.png](Our Risk Graph)
