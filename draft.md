@@ -20,11 +20,11 @@ each of those days (the 24th, 26th, 28th, and 30th) have larger weighting in the
 
 The numbers that we have had are also somewhat strange: from Thursday last week through to Tuesday this week, the rolling average of cases fell consistently, with R hovering around 0.9. Over the last two days, things have reversed entirely, with the last two days being the highest infection numbers we've seen since I started tracking it. Since I can't see any particular reason why this would happen, my best guess is that this is some combination of random variation and the model overestimating the effect of the move to Tier 2, and actual infections are somewhere close to holding steady. However, the test result data is showing essentially the same pattern, on the expected delay, which suggests that it *isn't* anything to do with the model. The only thing I can say with any degree of confidence is that the local numbers don't seem to be changing particularly quickly in either direction. 
 
-![g101.png](Infection Rate Graph)
+![Infection Rate Graph](g101.png)
 
 The 7-day average of growth rates looks less dramatic, though still with a similar pattern. Daily growth rates have been consistently between -3% and +3% for a long while now, significantly lower than we had earlier in the month (when we were briefly above 5%). That translates to R somewhere between 0.88 and 1.12 all week, somewhat lower than last week. 
 
-![g102.png](Growth Rate Graph)
+![Growth Rate Graph](g102.png)
 
 ## Our Risk Profile
 
@@ -43,4 +43,4 @@ Obviously, we aren't actually meeting this week, so I'm going to shift to using 
 | Thursday Scouts | 10.2% | 11.6% |
 | Explorers | 10.1% | 10.6% |
 
-![g103.png](Our Risk Graph)
+![Our Risk Graph](g103.png)
