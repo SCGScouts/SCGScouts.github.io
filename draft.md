@@ -1,10 +1,14 @@
 # Covid-19 Update
 
-## The Government Announcement
+## The Government Announcement & This Week
 
-As I'm sure most of you have just watched, we're going to be seeing more restrictions from Monday. I can't currently tell whether the law is going to stop us from meeting up in person ("childcare" is on the leaked list of exceptions, but whether we're included in that or not has been inconsistent). Also, we're also bound to follow NYA and Scout Association rules, and as of yet, neither of those has updated us (the latter is waiting for the former, and the former is in discussions with the government, apparently). At this point, I can't say whether or not we will be able to continue meeting. If we can, we'd like to, at least at the current risk level, for the same reasons we've mentioned previously: we still think that the actual risk from transmission at our meetings is low compared to the mental health benefits to our members. However, we're also aware that some of you will not agree with that, either because of higher risks to you/your family from the virus, or due to your kids being more able to cope with a lockdown than the average. I'll just take the opportunity to remind you that our online meetings are still continuing, if your kids would like to come to that instead. At present, that's running on Wednesdays (that being the only evening when the leaders aren't busy running other sections/etc.), but if we do have to stop running the other meetings, we will switch back to doing it on the normal section nights. 
+As I'm sure most of you have just watched, we're going to be seeing more restrictions from Monday. I can't currently tell whether the law is going to stop us from meeting up in person ("childcare" is on the leaked list of exceptions, but whether we're included in that or not has been inconsistent). Also, we're also bound to follow NYA and Scout Association rules, and as of yet, neither of those has updated us (the latter is waiting for the former, and the former is in discussions with the government, apparently). At this point, I can't say whether or not we will be able to continue meeting. 
 
-Either way, things are likely to be difficult for a lot of your kids going forwards. If there's anything that we can do to help, please let us know. In particular, I'd like to reiterate my offer to talk with anybody who's struggling, or anybody else who might benefit (either in person or virtually as the law/etc. allows), to provide reassurance, answer any questions, generally be someone to talk to who they aren't stuck in a house with all day. 
+If we can, we'd like to, at least at the current risk level, for the same reasons we've mentioned previously: we still think that the actual risk from transmission at our meetings is low compared to the mental health benefits to our members. However, we're also aware that some of you will not agree with that, either because of higher risks to you/your family from the virus, or due to your kids being more able to cope with a lockdown than the average. I'll just take the opportunity to remind you that our online meetings are still continuing, if your kids would like to come to that instead. At present, that's running on Wednesdays (that being the only evening when the leaders aren't busy running other sections/etc.), but if we do have to stop running the other meetings, we will switch back to doing it on the normal section nights. 
+
+Because of the uncertainty and the likelihood of things changing mid-week, **we're going to Zoom for all section meetings this week**. Normal meeting days/times. After that, we'll decide what we're doing based on what the government/NYA/national Scout Association tell us. As a minor point: we've been using my York uni account so far. That will expire on the 10th of November, so if we stay on Zoom (and I rather expect we will), the meeting ID will change at that point. 
+
+Regardless of what happens going forwards, things are likely to be difficult for a lot of your kids going forwards. If there's anything that we can do to help, please let us know. In particular, I'd like to reiterate my offer to talk with anybody who's struggling, or anybody else who might benefit (either in person or virtually as the law/etc. allows), to provide reassurance, answer any questions, generally be someone to talk to who they aren't stuck in a house with all day. 
 
 ## Local Situation
 
@@ -18,23 +22,23 @@ The numbers that we have had are also somewhat strange: from Thursday last week 
 
 The 7-day average of growth rates looks less dramatic, though still with a similar pattern. Daily growth rates have been consistently between -3% and +3% for a long while now, significantly lower than we had earlier in the month (when we were briefly above 5%). That translates to R somewhere between 0.88 and 1.12 all week, somewhat lower than last week. 
 
-[g102.png](Growth Rate Graph
+[g102.png](Growth Rate Graph)
 
 ## Our Risk Profile
 
-Our risk profiles show similar patterns, leaving us with mostly slightly higher numbers than last week, though somewhat distorted by last week being half term (and therefore having somewhat smaller groups than usual in most sections). As a result of extra people turning up, I'd expect the lower halves of each section here to move up by a fair bit (including Thursday Scouts), while the upper estimates stay relatively stable, if we are able to meet and local infection numbers don't drop off again.
+Obviously, we aren't actually meeting this week, so I'm going to shift to using *average* attendance numbers going forwards, so I've shifted to assuming full attendance (of those that have been coming to meetings over the last few months) for the numbers below. This has made things look like they spike rather dramatically today, but really it's just that these numbers aren't comparable to last week's numbers. 
 
 | Section  | Current risk | Risk on meeting day (projected) |
 | ---      | --- | --- | 
-| Beavers A  | 2.8% | 3.1% |
-| Beavers B | 5.0% | 5.4% |
-| Tigers A | 2.5% | 2.6% |
-| Tigers B | 4.9% | 5.2% |
+| Beavers A  | 4.7% | 5.1% |
+| Beavers B | 6.5% | 7.1% |
+| Tigers A | 5.0% | 5.4% |
+| Tigers B | 6.8% | 7.2% |
 | Panthers A | 9.7% | 11.0% |
-| Panthers B | 6.0% | 6.8% |
-| Tuesday Scouts A | 7.7% | 8.4% |
-| Tuesday Scouts B | 4.3% | 4.7% |
-| Thursday Scouts | 7.7% | 8.8% |
-| Explorers | 10.2% | 10.6% |
+| Panthers B | 7.2% | 8.2% |
+| Tuesday Scouts A | 11.2% | 12.2% |
+| Tuesday Scouts B | 8.0% | 8.7% |
+| Thursday Scouts | 10.2% | 11.6% |
+| Explorers | 10.1% | 10.6% |
 
 [g103.png](Our Risk Graph)
