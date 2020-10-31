@@ -13,7 +13,7 @@ Because of the uncertainty and the likelihood of things changing mid-week, **we'
 |Section | Activity | Equipment Needed
 | --- | --- | --- |
 | Beavers | Something Arty | Something to draw on/with |
-| Cubs | Mug cakes | A mug (not metal), 4 tbsp self raising flour, 4 tbsp caster sugar, 2 tbsp cocoa powder, 1 egg, 3 tbsp milk, 3 tbsp oil, vanilla essence/chocolate chips/other flavourings as preferred |
+| Cubs | Mug cakes | A mug (not metal), 4 tbsp self raising flour, 4 tbsp caster sugar, 2 tbsp cocoa powder, 1 egg, 3 tbsp milk, 3 tbsp oil, vanilla essence/chocolate chips/other flavourings as preferred. Microwave. |
 | Scouts | Cleudo | Pen, paper. "Spooky outfits encouraged", apparently | 
 | Explorers | Self-care night | Nothing in particular |
 
