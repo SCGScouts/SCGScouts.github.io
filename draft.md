@@ -31,7 +31,7 @@ The 7-day average of growth rates looks less dramatic, though still with a simil
 Obviously, we aren't actually meeting this week, so I'm going to shift to using *average* attendance numbers going forwards, so I've shifted to assuming full attendance (of those that have been coming to meetings over the last few months) for the numbers below. This has made things look like they spike rather dramatically today, but really it's just that these numbers aren't comparable to last week's numbers. 
 
 | Section  | Current risk | Risk on meeting day (projected) |
-| ---      | --- | --- | 
+| --- | --- | --- | 
 | Beavers A  | 4.7% | 5.1% |
 | Beavers B | 6.5% | 7.1% |
 | Tigers A | 5.0% | 5.4% |
