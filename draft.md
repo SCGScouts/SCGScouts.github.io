@@ -14,11 +14,27 @@ each of those days (the 24th, 26th, 28th, and 30th) have larger weighting in the
 
 The numbers that we have had are also somewhat strange: from Thursday last week through to Tuesday this week, the rolling average of cases fell consistently, with R hovering around 0.9. Over the last two days, things have reversed entirely, with the last two days being the highest infection numbers we've seen since I started tracking it. Since I can't see any particular reason why this would happen, my best guess is that this is some combination of random variation and the model overestimating the effect of the move to Tier 2, and actual infections are somewhere close to holding steady. However, the test result data is showing essentially the same pattern, on the expected delay, which suggests that it *isn't* anything to do with the model. The only thing I can say with any degree of confidence is that the local numbers don't seem to be changing particularly quickly in either direction. 
 
-
+[g101.png](Infection Rate Graph)
 
 The 7-day average of growth rates looks less dramatic, though still with a similar pattern. Daily growth rates have been consistently between -3% and +3% for a long while now, significantly lower than we had earlier in the month (when we were briefly above 5%). That translates to R somewhere between 0.88 and 1.12 all week, somewhat lower than last week. 
 
+[g102.png](Growth Rate Graph
+
 ## Our Risk Profile
 
-Our risk profiles show similar patterns, though somewhat distorted by last week being half term (and therefore having somewhat smaller groups than usual in most sections). I'd expect the lower halves of each section here to move up by a fair bit (including Thursday Scouts), while the upper estimates stay relatively stable, if we are able to meet and local infection numbers don't drop off again.
+Our risk profiles show similar patterns, leaving us with mostly slightly higher numbers than last week, though somewhat distorted by last week being half term (and therefore having somewhat smaller groups than usual in most sections). As a result of extra people turning up, I'd expect the lower halves of each section here to move up by a fair bit (including Thursday Scouts), while the upper estimates stay relatively stable, if we are able to meet and local infection numbers don't drop off again.
 
+| Section  | Current risk | Risk on meeting day (projected) |
+| ---      | --- | --- | 
+| Beavers A  | 2.8% | 3.1% |
+| Beavers B | 5.0% | 5.4% |
+| Tigers A | 2.5% | 2.6% |
+| Tigers B | 4.9% | 5.2% |
+| Panthers A | 9.7% | 11.0% |
+| Panthers B | 6.0% | 6.8% |
+| Tuesday Scouts A | 7.7% | 8.4% |
+| Tuesday Scouts B | 4.3% | 4.7% |
+| Thursday Scouts | 7.7% | 8.8% |
+| Explorers | 10.2% | 10.6% |
+
+[g103.png](Our Risk Graph)
