@@ -2,7 +2,7 @@
 
 ## This Week
 
-Here's our Zoom programme for the next week. Our meeting ID and link are the same as last week: [934-691-5877](https://zoom.us/j/9346915877) (link will let you join), and it should stay that way for the next month at least. 
+Here's our Zoom programme for the next week. Our meeting ID and link are the same as last week: [934-691-5877](https://zoom.us/j/9346915877) (link will let you join).
 
 
 |Section | Activity | Equipment Needed |
