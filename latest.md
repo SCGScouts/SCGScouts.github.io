@@ -9,7 +9,7 @@ Here's our Zoom programme for the next week. Our meeting ID and link are the sam
 | --- | --- | --- |
 | Beavers/Cubs | Scavenger Hunt | Nothing in particular |
 | Scouts | Cleudo | Pen and paper |
-| Explorers | [TODO] | [TODO] |
+| Explorers | Be Prepared | Be Prepared |
 
 As mentioned last week, please let us know (either by email, or the [Worry Box](https://stchadsscouts.com/worrybox), or whatever else is easiest) if there's anything we can do to help your kids deal with everything that is going on. 
 
