@@ -24,7 +24,7 @@ The local picture looks remarkably positive this week, with infection numbers co
 
 ## Our Risk Profile
 
-As with last week, these are theoretical numbers for what would happen if we did meet, and everybody who had been turning up even occasionally did. As those numbers aren't changing, and I haven't updated the age profile (I have now got a new batch of data from everybody, so it will be updated by next week), this is essentially just a scaled version of the above, and shows much the same pattern, with risks across the board having halved again
+As with last week, these are theoretical numbers for what would happen if we did meet, and everybody who had been turning up even occasionally did. As those numbers aren't changing, and I haven't updated the age profile (I have now got a new batch of data from everybody, so it will be updated by next week), this is essentially just a scaled version of the above, and shows much the same pattern, with risks across the board having halved again from last week.
 
 | Section  | Current risk | Risk on meeting day (projected) |
 | --- | --- | --- | 
