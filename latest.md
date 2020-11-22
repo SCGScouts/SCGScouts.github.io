@@ -9,7 +9,7 @@ Here's our Zoom programme for the next week. Our meeting ID and link are the sam
 | --- | --- | --- |
 | Beavers/Cubs | Communicator Badge/Origami | Paper, something to draw with |
 | Scouts | RPGs | Pen and paper, dice (or some other way of generating random numbers: [random.org](http://random.org) is good) |
-| Explorers | Camouflage & Cake | A camouflaged cake |,
+| Explorers | Camouflage & Cake | A camouflaged cake |
 
 As always, please let us know (either by email, or the [Worry Box](https://stchadsscouts.com/worrybox), or whatever else is easiest) if there's anything we can do to help your kids deal with everything that is going on. 
 
