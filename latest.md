@@ -2,41 +2,52 @@
 
 ## This Week
 
-Here's our Zoom programme for the next week. Our meeting ID and link are the same as last week: [934-691-5877](https://zoom.us/j/9346915877) (link will let you join).
+With the change back to a tier system, we're now allowed to meet up in person again. This week, we're keeping thing simple, and going for various walks with all of the sections. We're likely to have to split at least some of the groups again, so please make sure to sign up on OSM (you should have just had an email about that. We'll all be meeting at the normal times, but in a variety of places: 
 
-
-|Section | Activity | Equipment Needed |
+| Section | Location | Second location if we need to split |
 | --- | --- | --- |
-| Beavers/Cubs | Origami | Paper |
-| Scouts | Baking | 250g fat (butter/marg/etc) + some for greasing, 140g sugar (caster/granulated/brown), 1 egg, Vanilla extract or similar (optional), 300g flour (plain or self raising), 125g Icing sugar for decoration |
-| Explorers | D&D | Some method of generating random numbers |
+| Beavers | Scout Hut | Knavesmire Entrance |
+| Cubs | Scout Hut | Millennium Bridge |
+| Tuesday Scouts | Scout Hut | Millennium Bridge |
+| Thursday Scouts | Scout Hut | Millennium Bridge | 
+| Explorers | ? | ? |
+
+We are likely to be short on leaders for some sections if we do need to split them. At a guess, we're likely to need (assuming that we need to split both sets of Cubs and Tuesday Scouts, and have similar-ish numbers to the last time we met up in person): 
+
+- 1 or 2 parent helpers for Monday Cubs
+- 1 parent helper for Beavers
+- 2 parent helpers for Tuesday Scouts
+- 1 parent helper for Thursday Cubs
+- 1 parent helper for Thursday Scouts
+- 1 adult helper for Explorers (which we think is sorted)
+
 
 As always, please let us know (either by email, or the [Worry Box](https://stchadsscouts.com/worrybox), or whatever else is easiest) if there's anything we can do to help your kids deal with everything that is going on. 
 
 ## Local Situation
 
-Things look... weird. I really don't have a good explanation fo why we've seemingly had two days of implausibly ridiculous growth rates, two days of fast but just about plausible growth rates, and otherwise have been pretty much level over the last two weeks, while every other indicator has shown our case rates falling. I'd guess that at least some of the growth is an artifact of modelling changes, but it does look like we've got some actual growth going on, albeit probably slower than it looks. 
+We're back to good news this week - looks like whatever was causing the weird spike last week has faded again, whatever it was. We're back to an increasingly rapid fall, with today's daily and rolling average figures both the lowest since September. There's still a few days of delay built into these figures, so it still remains to be seen what effect the move back to the tier system will have. 
 
-![Infection Rate Graph](g141.png)
+![Infection Rate Graph](g151.png)
 
 
-![Growth Rate Graph](g142.png)
+![Growth Rate Graph](g152.png)
 
 ## Our Risk Profile
 
-As with last week, these are theoretical numbers for what would happen if we did meet, and everybody who had been turning up even occasionally did. As those numbers aren't changing, and I haven't updated the age profile (yeah, I know. I'll try to *actually* get it done this week), this is essentially just a scaled version of the above, and shows much the same pattern, with risks across the board having halved again from last week.
+These are back to meaning something non-hypothetical now, but are still based on the same estimates as they have been for the last month, so are still overestimates for the same reasons that they have been.
 
 | Section  | Current risk | Risk on meeting day (projected) |
 | --- | --- | --- | 
-| Beavers A  | 3.1% | 3.5% |
-| Beavers B | 4.2% | 4.8% |
-| Tigers A | 3.3% | 3.6% |
-| Tigers B | 4.4% | 4.8% |
-| Panthers A | 6.4% | 7.6% |
-| Panthers B | 4.7% | 5.6% |
-| Tuesday Scouts A | 7.4% | 8.3% |
-| Tuesday Scouts B | 5.3% | 5.9% |
-| Thursday Scouts | 6.7% | 8.0% |
-| Explorers | 6.7% | 7.1% |
+| Beavers A  | 1.3% | 0.8% |
+| Beavers B | 1.8% | 1.1% |
+| Tigers A | 1.4% | 1.0% |
+| Tigers B | 1.9% | 1.3% |
+| Panthers A | 2.7% | 1.3% |
+| Panthers B | 2.0% | 1.0% |
+| Tuesday Scouts A | 3.2% | 1.9% |
+| Tuesday Scouts B | 2.3% | 1.4% |
+| Thursday Scouts | 2.9% | 1.4% |
+| Explorers | 2.9% | 2.2% |
 
-![Our Risk Graph](g143.png)
+![Our Risk Graph](g153.png)
