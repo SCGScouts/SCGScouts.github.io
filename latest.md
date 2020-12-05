@@ -18,8 +18,6 @@ We are likely to be short on leaders for some sections if we do need to split th
 - 2 parent helpers for Tuesday Scouts
 - 1 parent helper for Thursday Cubs
 - 1 parent helper for Thursday Scouts
-- 1 adult helper for Explorers (which we think is sorted)
-
 
 As always, please let us know (either by email, or the [Worry Box](https://stchadsscouts.com/worrybox), or whatever else is easiest) if there's anything we can do to help your kids deal with everything that is going on. 
 
