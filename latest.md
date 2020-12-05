@@ -2,7 +2,7 @@
 
 ## This Week
 
-With the change back to a tier system, we're now allowed to meet up in person again. This week, we're keeping thing simple, and going for various walks with all of the sections. We're likely to have to split at least some of the groups again, so please make sure to sign up on OSM (you should have just had an email about that. We'll all be meeting at the normal times, but in a variety of places: 
+With the change back to a tier system, we're now allowed to meet up in person again. This week, we're keeping things simple, and going for various walks with all of the sections except Explorers (Explorers, check your facebook group for details). We're likely to have to split at least some of the groups again, so please make sure to sign up on OSM (you should have just had an email about that. We'll all be meeting at the normal times, but in a variety of places: 
 
 | Section | Location | Second location if we need to split |
 | --- | --- | --- |
@@ -10,7 +10,6 @@ With the change back to a tier system, we're now allowed to meet up in person ag
 | Cubs | Scout Hut | Millennium Bridge |
 | Tuesday Scouts | Scout Hut | Millennium Bridge |
 | Thursday Scouts | Scout Hut | Millennium Bridge | 
-| Explorers | ? | ? |
 
 We are likely to be short on leaders for some sections if we do need to split them. At a guess, we're likely to need (assuming that we need to split both sets of Cubs and Tuesday Scouts, and have similar-ish numbers to the last time we met up in person): 
 
