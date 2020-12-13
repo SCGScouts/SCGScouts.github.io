@@ -2,24 +2,15 @@
 
 ## This Week
 
-With the change back to a tier system, we're now allowed to meet up in person again. This week, we're keeping things simple, and going for various walks with all of the sections except Explorers (Explorers, check your facebook group for details). We're likely to have to split at least some of the groups again, so please make sure to sign up on OSM (you should have just had an email about that). We'll all be meeting at the normal times, but in a variety of places: 
-
-| Section | Location | Second location if we need to split |
+| Section | Locations | Activity |
 | --- | --- | --- |
-| Beavers | Scout Hut | Knavesmire Entrance |
-| Cubs | Scout Hut | Millennium Bridge |
-| Tuesday Scouts | Scout Hut | Millennium Bridge |
-| Thursday Scouts | Scout Hut | Millennium Bridge | 
+| Beavers | Clifford's Tower | Chippy/Christmas Lights walk |
+| Cubs | Nunnery Lane Car Park/Millennium Bridge | Chippy/Christmas Lights walk |
+| Scouts | Clifford's Tower/Nunnery Lane Car Parks | Christmas-y walk |
 
-We are likely to be short on leaders for some sections if we do need to split them. At a guess, we're likely to need (assuming that we need to split both sets of Cubs and Tuesday Scouts, and have similar-ish numbers to the last time we met up in person): 
+Uniforms and generally Christmas-y hats/etc. highly recommended.
 
-- 1 or 2 parent helpers for Monday Cubs
-- 1 parent helper for Beavers
-- 2 parent helpers for Tuesday Scouts
-- 1 parent helper for Thursday Cubs
-- 1 parent helper for Thursday Scouts
-
-As always, please let us know (either by email, or the [Worry Box](https://stchadsscouts.com/worrybox), or whatever else is easiest) if there's anything we can do to help your kids deal with everything that is going on. 
+Finally, Jo will be delivering a bunch of cards/pictures/etc. to a local care home next week. If anybody has any cards/etc. they'd like to add to that, please bring them along to any meeting this week. 
 
 ## Local Situation
 
