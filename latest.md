@@ -23,28 +23,27 @@ As always, please let us know (either by email, or the [Worry Box](https://stcha
 
 ## Local Situation
 
-We're back to good news this week - looks like whatever was causing the weird spike last week has faded again, whatever it was. We're back to an increasingly rapid fall, with today's daily and rolling average figures both the lowest since September. There's still a few days of delay built into these figures, so it still remains to be seen what effect the move back to the tier system will have. 
+This week, we've levelled off significantly - this is likely the move to the tier system kicking in. The fact that it's still broadly level or downwards is very good news.
 
-![Infection Rate Graph](g151.png)
+![Infection Rate Graph](g161.png)
 
 
-![Growth Rate Graph](g152.png)
+![Growth Rate Graph](g162.png)
 
 ## Our Risk Profile
 
-These are back to meaning something non-hypothetical now, but are still based on the same estimates as they have been for the last month, so are still overestimates for the same reasons that they have been.
+These are now based on actual attendance last week, so are actually meaningful again. They're also the lowest we've had since September for most sections. 
 
 | Section  | Current risk | Risk on meeting day (projected) |
 | --- | --- | --- | 
-| Beavers A  | 1.3% | 0.8% |
-| Beavers B | 1.8% | 1.1% |
-| Tigers A | 1.4% | 1.0% |
-| Tigers B | 1.9% | 1.3% |
-| Panthers A | 2.7% | 1.3% |
-| Panthers B | 2.0% | 1.0% |
-| Tuesday Scouts A | 3.2% | 1.9% |
-| Tuesday Scouts B | 2.3% | 1.4% |
-| Thursday Scouts | 2.9% | 1.4% |
-| Explorers | 2.9% | 2.2% |
+| Beavers A  | 1.3% | 1.2% |
+| Beavers B | 0.9% | 0.8% |
+| Tigers (Combined) | 1.6% | 1.5% |
+| Panthers A | 1.8% | 1.6% |
+| Panthers B | 1.7% | 1.6% |
+| Tuesday Scouts A | 2.2% | 2.1% |
+| Tuesday Scouts B | 1.6% | 1.5% |
+| Thursday Scouts | 2.5% | 2.3% |
+| Explorers | 1.6% | 1.5% |
 
-![Our Risk Graph](g153.png)
+![Our Risk Graph](g163.png)
