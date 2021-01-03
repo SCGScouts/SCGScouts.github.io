@@ -9,7 +9,7 @@ Given the situation in York (more on that at the bottom), we're going online thi
 
 ## Account Setup
 
-1. Go to lichess.org/
+1. Go to [lichess.org](https://lichess.org/)
 2. Click "sign in" in the top-right ![Sign In](li1.png)
 3. Click "register" (if you already have an account, for example from the last chess tournament, skip this and just log into your account instead).
 4. Fill in the details and hit "register" at the bottom. They don't actually send a confirmation email, so you can put in a fake one if you don't want to give them your real one (but they also haven't sent me any spam). ![Register](li2.png)
