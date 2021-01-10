@@ -5,6 +5,7 @@
 ### For our normal weekly meetings:
 
 **Beavers & Cubs:** Not sure exactly what we're doing, or how to write it, but it won't need anything unusual, so just turn up.
+
 **Scouts:** We're baking. You'll need: 
 
 | Ingredient | Quantity | Notes |
