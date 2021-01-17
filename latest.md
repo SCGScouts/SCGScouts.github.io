@@ -4,36 +4,20 @@
 
 ### For our normal weekly meetings:
 
-**Beavers & Cubs:** Not sure exactly what we're doing, or how to write it, but it won't need anything unusual, so just turn up.
+**Beavers & Cubs:** We're doing some arty things. You'll need some way of doing art. Microsoft Paint or similar is perfect. 
 
-**Scouts:** We're baking. You'll need: 
-
-| Ingredient | Quantity | Notes |
-|---|---|---|
-|Flour|225g|Hopefully self-raising|
-|Sugar|75g|Probably caster|
-|Butter|75g|Or margarine|
-|Eggs|1| |
-|Milk|100ml||
-|Bun cases|Some||
-
-Or some multiple thereof.
-
-### Other stuff that's going on
-
-- [Gilwell WinterCamp](https://www.wintercamp.org.uk/) is on next weekend. There's a whole bunch of activities for all ages on there. There's apparently some sort of team challenge on as well, so we'll have a go at that at some point. More details will follow shortly.  
-- Would there be any interest in some kind of regular chess thing, now we've got everything set up for it? If so, it'll be either on Wednesday/Friday evenings or somewhere during the weekend, but otherwise, it can go wherever you like, time-wise.
+**Scouts:** We're tying some knots. You'll need something rope-like to tie knots in. 
 
 As always, please let us know if there's anything that we can do to help.
 
 ## Local Situation
 
-Things have changed rather dramatically, and not in a good direction, unfortunately. Not much to say here other than that. Rolling average R peaked at 1.84 on Thursday, and has since trended down slightly to 1.55.
+There's been a lot more instability in the numbers recently, so it's hard to say much with any confidence, but things at least look much less bad than they did last week, matching the testing results. 
 
-![Infection Rate Graph](g181.png)
+![Infection Rate Graph](g191.png)
 
 
-![Growth Rate Graph](g182.png)
+![Growth Rate Graph](g192.png)
 
 ## Our Risk Profile
 
@@ -41,11 +25,11 @@ These are based on the last meeting before Christmas, so still have the slight w
 
 | Section  | Current risk | Risk on meeting day (projected) |
 | --- | --- | --- | 
-| Beavers (Combined) | 7.5% | 10.3% |
-| Tigers (Combined) | 9.7% | 12.3% |
-| Panthers (Combined) | 15.4% | 24.1% |
-| Tuesday Scouts (Combined) | 12.8% | 17.4% |
-| Thursday Scouts | 9.1% | 14.5% |
-| Explorers | 10.3% | 12.0% |
+| Beavers (Combined) | 6.0% | 5.4% |
+| Tigers (Combined) | 7.8% | 7.2% |
+| Panthers (Combined) | 12.4% | 10.7% |
+| Tuesday Scouts (Combined) | 10.3% | 9.3% |
+| Thursday Scouts | 7.2% | 6.2% |
+| Explorers | 8.2% | 7.8% |
 
-![Our Risk Graph](g183.png)
+![Our Risk Graph](g193.png)
