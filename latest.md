@@ -14,10 +14,9 @@ As always, please let us know if there's anything that we can do to help.
 
 There's been a lot more instability in the numbers recently, so it's hard to say much with any confidence, but things at least look much less bad than they did last week, matching the testing results. 
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS9DCaYpz3qqDbUsptGQO4c-84a3vYQaBk7UtJyolObCJknCxbLY8Zqz3-4EuPindtvnX_6W368Vt3l/pubchart?oid=1771858088&amp;format=interactive"></iframe>
+![Growth Rate Graph](g191.png)
 
-
-![Growth Rate Graph](g192.png)
+![Case Graph](g192.png)
 
 ## Our Risk Profile
 
