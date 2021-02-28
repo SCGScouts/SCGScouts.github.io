@@ -20,6 +20,8 @@ The "vaccines showing up as possible cases" thing from last week has apparently 
 
 ![R graph](g205.png)
 
+[Interactive version](https://docs.google.com/spreadsheets/d/e/2PACX-1vS9DCaYpz3qqDbUsptGQO4c-84a3vYQaBk7UtJyolObCJknCxbLY8Zqz3-4EuPindtvnX_6W368Vt3l/pubhtml?gid=1059409691&single=false)
+
 ## Our Risk Profile
 
 No update yet, sorry.
