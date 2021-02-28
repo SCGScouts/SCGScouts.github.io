@@ -4,31 +4,22 @@
 
 ### For our normal weekly meetings:
 
-**Beavers & Cubs:** We're doing some arty things. You'll need some way of doing art. Microsoft Paint or similar is perfect. 
+**Beavers & Cubs:** Apparently, we're making dens. I don't really know what that involves, but you'll need "something vaguely den-material-ish" and presumably a suitable place to do so. 
 
-**Scouts:** We're tying some knots. You'll need something rope-like to tie knots in. 
-
-As always, please let us know if there's anything that we can do to help.
+**Scouts:** We're doing a much better quiz than last time! Those of you who were there last week were supposed to be writing quiz rounds. Please send them as soon as you can if you haven't already.
 
 ## Local Situation
 
-There's been a lot more instability in the numbers recently, so it's hard to say much with any confidence, but things at least look much less bad than they did last week, matching the testing results. 
+The "vaccines showing up as possible cases" thing from last week has apparently been fixed, but whatever they've changed seems to have thrown off our local figures a bit - they've been bouncing around all over the place ever since the change. I'm assuming it's a sample-size issue, since we're down to a few hundred predicted cases total. At any rate, it's hard to conclude much from this week's figures other than that they don't seem to be changing dramatically quickly. Still no "our risk" graph, sorry. 
 
-![Growth Rate Graph](g191.png)
+![Growth Rate Graph](g201.png)
 
-![Case Graph](g192.png)
+![Case Graph](g202.png)
+
+![Log-scale case graph](g204.png)
+
+![R graph](g205.png)
 
 ## Our Risk Profile
 
-These are based on the last meeting before Christmas, so still have the slight weirdnesses due to attendance then.
-
-| Section  | Current risk | Risk on meeting day (projected) |
-| --- | --- | --- | 
-| Beavers (Combined) | 6.0% | 5.4% |
-| Tigers (Combined) | 7.8% | 7.2% |
-| Panthers (Combined) | 12.4% | 10.7% |
-| Tuesday Scouts (Combined) | 10.3% | 9.3% |
-| Thursday Scouts | 7.2% | 6.2% |
-| Explorers | 8.2% | 7.8% |
-
-![Our Risk Graph](g193.png)
+No update yet, sorry.
