@@ -4,23 +4,22 @@
 
 ### For our normal weekly meetings:
 
-**Beavers & Cubs:** Apparently, we're making dens. I don't really know what that involves, but you'll need "something vaguely den-material-ish" and presumably a suitable place to do so. 
+**Beavers & Cubs:** We're doing campfire songs. Sorry. They shouldn't need anything in particular (though you might need some earplugs).
 
-**Scouts:** We're doing a much better quiz than last time! Those of you who were there last week were supposed to be writing quiz rounds. Please send them as soon as you can if you haven't already.
+**Scouts:** We're doing some D&D. Something to write on and with would be useful, plus dice if you've got them (don't worry if not). 
 
 ## Local Situation
-
-The "vaccines showing up as possible cases" thing from last week has apparently been fixed, but whatever they've changed seems to have thrown off our local figures a bit - they've been bouncing around all over the place ever since the change. I'm assuming it's a sample-size issue, since we're down to a few hundred predicted cases total. At any rate, it's hard to conclude much from this week's figures other than that they don't seem to be changing dramatically quickly.  
+Things are looking good locally: we've gone from R bouncing around 1 locally to being very clearly below 1 (somewhere between 0.5 and 0.6). That translates to a clearly visible decline in case numbers, even on the linear scale, and to case numbers roughly halving every week. If this carries on, we'll be getting below the 500 case mark (the point at which I started getting worried about case numbers and tracking things) around this time next week. We are starting to see the random-looking single-day swings that we saw in September again, though, and I expect that will continue, now that we're down to lower numbers again. 
 
 Click the images to expand them, or view the [interactive version](https://docs.google.com/spreadsheets/d/e/2PACX-1vS9DCaYpz3qqDbUsptGQO4c-84a3vYQaBk7UtJyolObCJknCxbLY8Zqz3-4EuPindtvnX_6W368Vt3l/pubhtml?gid=1059409691&single=false).
 
-<a href="g211.png">![Growth Rate Graph](g211.png)</a>
+<a href="g221.png">![Growth Rate Graph](g221.png)</a>
 
-<a href="g212.png">![Case Graph](g212.png)</a>
+<a href="g222.png">![Case Graph](g222.png)</a>
 
-<a href="g214.png">![Log-scale case graph](g214.png)</a>
+<a href="g224.png">![Log-scale case graph](g224.png)</a>
 
-<a href="g215.png">![R graph](g215.png)</a>
+<a href="g225.png">![R graph](g225.png)</a>
 
 ## Our Risk Profile
 
