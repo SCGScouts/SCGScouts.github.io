@@ -17,6 +17,8 @@ For those who weren't with us last year, here's a quick summary:
 7. Most of our bad weather plans are of the form "do the same thing, but wear coats". However, if it gets excessively awful, there may well be last-minute changes to the plan - please bear with us with that kind of thing.
 8. We're going to keep going through school holidays for now.
 
+We will also very likely be needing some help from you guys too - we're OK for the first week (if anybody wants to join us for a walk, you're more than welcome, of course), but we will get a parent rota setup organised, probably along similar lines to what we had going last year. 
+
 ## New People
 
 Those of you who haven't been with us in person before should have had an email with (a) information about the system that we'll be using for letting you sign up for events (and basically all of the rest of our admin stuff), and information about stuff that you need to do. If you haven't had such an email, please let me know so I can fix it (including if you have other children that are already set up). 
