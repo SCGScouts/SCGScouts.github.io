@@ -33,7 +33,7 @@ We'll be starting off simple, and all going for hikes this week. You should all 
 
 ## Other Stuff
 
-You can find our full risk assessment [here](https://docs.google.com/spreadsheets/d/1xCxB79aQMd_lLrEOvQGS21v6oo3X6EOG63JHqZyn220/edit?usp=sharing), the national guidance [here](https://www.scouts.org.uk/volunteers/scouts-at-home/getting-everyone-back-together-safely/), and the original information [here](https://docs.google.com/document/d/1TqTfBxeBgpflv29CxinNBOWz3u_f4b7i6Z37812jcas/edit#), but hopefully everyhing directly relevant is here. 
+You can find our full risk assessment [here](https://docs.google.com/spreadsheets/d/1xCxB79aQMd_lLrEOvQGS21v6oo3X6EOG63JHqZyn220/edit?usp=sharing), the national guidance [here](https://www.scouts.org.uk/volunteers/scouts-at-home/getting-everyone-back-together-safely/), and the original information [here](https://docs.google.com/document/d/1TqTfBxeBgpflv29CxinNBOWz3u_f4b7i6Z37812jcas/edit#), but hopefully everything directly relevant is here. 
 
 We will still be running some online things, as well as the in-person meetings, if there is demand for it. If you/your children have any preferences as to what you'd like those sessions to look like, please let us know (I'm aware that I still owe you some more chess, so that will happen at some point).
 
