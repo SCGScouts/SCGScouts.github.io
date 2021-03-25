@@ -9,7 +9,7 @@ For those who weren't with us last year, here's a quick summary:
 
 1. We will need explicit consent from you before your child attends (including Young Leaders attending meetings of other sections, as a separate thing from them attending Explorers). We'll be doing this via OSM events - you should have had an invite to that event. 
 1. We will be meeting outdoors (it looks like we'll probably be allowed to start meeting indoors from April, with some restrictions, but we'll be staying outdoors as much as possible for as long as possible, both to avoid having to work with those restrictions and the number limits from how small our hut is, and to make the best of the (hopefully!) improving weather.
-2. During the meetings (and at pickups/dropoffs), we'll be asking everybody to socially distance from each other. We're aware that this will be difficult for many of them, especially for the younger ones, and we aren't expecting it to b, but we will be trying our best in that regard. 
+2. During the meetings (and at pickups/dropoffs), we'll be asking everybody to socially distance from each other. We're aware that this will be difficult for many of them, especially for the younger ones, and we aren't expecting it to be perfect, but we will be trying our best in that regard. 
 3. Not something that you're likely to notice, but we'll be avoiding sharing equipment as much as possible, and cleaning it where we can't avoid it. 
 4. We'll be doing all of the now-usual handwashing and such.
 5. We will be keeping track of who has attended, and will pass this information to test & trace if requested. 
@@ -29,7 +29,10 @@ We've been putting off moving people between sections for a while, and have now 
 
 ## Activities
 
-We'll be starting off simple, and all going for hikes this week. You should all have been invited to the relevant OSM events for it. The programme going forwards should be out early next week.
+We'll be starting off simple, and all going for hikes this week. You should all have been invited to the relevant OSM events for it, starting and finishing at the scout hut at the usual times. The programme going forwards should be out early next week.
+
+## Volunteering/Parent rota
+We are still likely to need help from parents most weeks (we're covered for this first week, but if anybody wants to join us for a walk, you're more than welcome). As you may already have noticed, we are also looking for some more assistant leaders, which is really very fun, doesn't need any particular skills, and is very flexible, so let us know if you're interested in that. 
 
 ## Other Stuff
 
